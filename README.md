@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sainikhil-hub
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning c,python and some hardware
+- 🌱 I’m currently learning c,python,HTML and some hardware
   
 - 📫 How to reach me in LinkedIn
 - https://www.linkedin.com/in/cheedalla-sai-nikhil-b826b4326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
