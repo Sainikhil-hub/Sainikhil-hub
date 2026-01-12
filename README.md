@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Sai Nikhil </h1>
 <p align="center">
-  <img src="https://i.imgur.com/Qr71crq.gif" width="400"/>
+  <img src="https://i.imgur.com/6RMhx.gif" width="400"/>
 </p>
+
 
 <h3 align="center">Passionate Developer | Cyber Security Enthusiast</h3>
 
