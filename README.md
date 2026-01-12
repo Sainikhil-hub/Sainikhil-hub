@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="80" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&text=Cybersecurity%20Enthusiast&fontColor=ffffff&fontSize=30" />
 </p>
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fae1e264-9224-451d-bc8c-f8987d06156e" />
 
