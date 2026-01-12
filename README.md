@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,html,css,python,c,arduino,github" />
 </p>
