@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="80" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif" width="400"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Sai Nikhil </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 
 
