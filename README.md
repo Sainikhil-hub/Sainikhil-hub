@@ -2,10 +2,12 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="80" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sai Nikhil </h1>
 <p align="center">
-  <img src="https://i.imgur.com/6RMhx.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif" width="400"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Sai Nikhil </h1>
+
 
 
 <h3 align="center">Passionate Developer | Cyber Security Enthusiast</h3>
