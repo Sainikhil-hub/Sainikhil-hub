@@ -1,14 +1,39 @@
-- 👋 Hi, I’m @Sainikhil-hub
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning c,python,HTML and some hardware
-  
-- 📫 How to reach me in LinkedIn
-- https://www.linkedin.com/in/cheedalla-sai-nikhil-b826b4326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: snails have teeth
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&text=Cybersecurity%20Enthusiast&fontColor=ffffff&fontSize=30" />
+</p>
 
-<!---
-Sainikhil-hub/Sainikhil-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Sai Nikhil </h1>
+<h3 align="center">Passionate Developer | Cyber Security Enthusiast</h3>
 
+---
+
+## 🧑‍💻 About Me
+- 🌱 Currently learning **Cyber SEcurity, Python, Arduino, ESP**
+- 💡 Interested in learning new things
+- ⚡ Fun fact Snails have teeth
+
+---
+
+## 🛠️ Technical Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,html,css,python,c,arduino,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sainikhil-hub&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sainikhil-hub&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/cheedella-sai-nikhil-b826b4326/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
+  <a href="mailto:cheedallasainikhil@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge" /></a>
+</p>
