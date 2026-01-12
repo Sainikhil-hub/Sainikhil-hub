@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning **Cyber SEcurity, Python, Arduino, ESP**
+- 🌱 Currently learning **Cyber Security, Python, Arduino, ESP**
 - 💡 Interested in learning new things
 - ⚡ Fun fact Snails have teeth
 
